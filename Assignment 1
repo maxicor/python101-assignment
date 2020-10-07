@@ -1,0 +1,28 @@
+#task_1  find max element 
+
+Data1=[12,29,49,23,219,2,19]
+X=Data1.sort()
+Print(x[-1])
+Output 49
+#task_2  find  2nd max element 
+
+Data1=[12,29,49,23,219,2,19]
+X=Data1.sort()
+Print(x[-2])
+Output 29
+#task_3 merage and sort 
+
+Data1=[12,13,15,28]
+Data2=[11,6,29,30,10]
+Data=data1+data2
+Data.sort()
+Print(data)
+Output 6,10,11 12,13,15,28,29,30
+
+# Task_4  swap 1st to last vice versa
+
+Data1=[12,22,34,54,76,87]
+Data1[0],data1[-1]=data1[-1]data1[0]
+
+Print(data1)
+Output Data1=[87,22,34,54,76,12]
