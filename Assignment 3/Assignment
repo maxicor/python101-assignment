@@ -27,6 +27,7 @@
 # print(min(temp))
 # print(max(temp))
 
+question 2
 # original_list = [11,8,45,11,23,45,23,45,89] 
 # count = dict()
 # for i in original_list:
@@ -36,12 +37,14 @@
 #         count[i] = 1
 # print(count)
 
-
+question 4
 # def showEmployee(name , salary = 50000):
 #     print("Empoloyee {} salary is {}".format(name , salary))
 
 # showEmployee("shubham")
 
+
+question 5
 # def outer_function(a , b):
 #     def inner_function():
 #         return a  +  b
@@ -49,6 +52,7 @@
 #     return inner_function() + 5
 # print(outer_function(10,20))
 
+questin 1
 # skillsanta_dict={"name":"siddharth shevde",
 #     "age":20,
 #     "salary":20000,
@@ -59,6 +63,7 @@
 # del skillsanta_dict['city']
 # print(skillsanta_dict)
 
+question 10
 from math import sqrt
 
 def perfect_numbers(n):
